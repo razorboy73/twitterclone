@@ -1,0 +1,13 @@
+{
+  "folders": [
+    {
+      "path": "../Job Board"
+    },
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "Twitter Clone"
+  }
+}
